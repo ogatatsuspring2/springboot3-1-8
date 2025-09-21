@@ -1,6 +1,6 @@
 spring:
   application:
-    name: springboot3-1-7
+    name: springboot3-1-8
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql:tododb
